@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512">
+  <linearGradient id="68isvZadvZfYA06tL0Cs6a" x1="12" x2="12" y1="29.872" y2="33.511" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#6dc7ff" />
+    <stop offset="1" stop-color="#e6abff" />
+  </linearGradient>
+  <path fill="url(#68isvZadvZfYA06tL0Cs6a)" d="M13,30c-1.105,0-2,0.895-2,2c0,1.104,0.895,2,2,2V30z" />
+  <linearGradient id="68isvZadvZfYA06tL0Cs6b" x1="43.294" x2="43.294" y1="11.66" y2="20.055" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#6dc7ff" />
+    <stop offset="1" stop-color="#e6abff" />
+  </linearGradient>
+  <polygon fill="url(#68isvZadvZfYA06tL0Cs6b)" points="41,12.66 41,20 45.587,20" />
+  <linearGradient id="68isvZadvZfYA06tL0Cs6c" x1="45.972" x2="45.972" y1="32.851" y2="41.151" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#6dc7ff" />
+    <stop offset="1" stop-color="#e6abff" />
+  </linearGradient>
+  <polygon fill="url(#68isvZadvZfYA06tL0Cs6c)" points="41,34 41,42 50.943,42 46.574,34" />
+  <linearGradient id="68isvZadvZfYA06tL0Cs6d" x1="44.432" x2="44.432" y1="21.649" y2="29.348" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#6dc7ff" />
+    <stop offset="1" stop-color="#e6abff" />
+  </linearGradient>
+  <polygon fill="url(#68isvZadvZfYA06tL0Cs6d)" points="41,24 41,30 47.863,30 44.479,24" />
+  <linearGradient id="68isvZadvZfYA06tL0Cs6e" x1="32" x2="32" y1="5.468" y2="58.304" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#1a6dff" />
+    <stop offset="1" stop-color="#c822ff" />
+  </linearGradient>
+  <rect width="30" height="2" x="17" y="56" fill="url(#68isvZadvZfYA06tL0Cs6e)" />
+  <linearGradient id="68isvZadvZfYA06tL0Cs6f" x1="32" x2="32" y1="5.468" y2="58.304" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#1a6dff" />
+    <stop offset="1" stop-color="#c822ff" />
+  </linearGradient>
+  <path fill="url(#68isvZadvZfYA06tL0Cs6f)" d="M56.878,44.521L51.132,34H53c0.355,0,0.685-0.188,0.863-0.496 c0.18-0.307,0.183-0.686,0.008-0.995L49.072,24H51c0.363,0,0.698-0.197,0.875-0.516c0.176-0.317,0.166-0.706-0.027-1.015l-10-16 c-0.365-0.584-1.33-0.584-1.695,0l-10,16c-0.193,0.309-0.203,0.697-0.027,1.015C30.302,23.803,30.637,24,31,24h1.928l-4.799,8.509 c-0.175,0.31-0.172,0.688,0.008,0.995C28.315,33.812,28.645,34,29,34h1.868l-5.746,10.521c-0.169,0.31-0.162,0.687,0.018,0.989 C25.32,45.813,25.646,46,26,46h5v6h-8V38h3.405l1.092-2H13c-2.206,0-4-1.794-4-4s1.794-4,4-4h7v-2h-4.184 c-0.622-0.67-0.918-1.54-0.782-2.456c0.215-1.45,1.564-2.544,3.14-2.544h5.823l0.002-2c-0.555-0.001-1.07-0.223-1.451-0.625 s-0.574-0.929-0.545-1.484C22.058,15.849,23.03,15,24.17,15h8.293l1.25-2H24.17c-2.223,0-4.052,1.662-4.165,3.785 c-0.041,0.79,0.144,1.552,0.528,2.215h-2.359c-2.559,0-4.759,1.827-5.118,4.25c-0.142,0.951-0.006,1.9,0.371,2.75H13 c-3.309,0-6,2.691-6,6s2.691,6,6,6v1c0,2.206,1.847,4,4.116,4H21v9H8v2h48v-2H46v-6h10c0.354,0,0.68-0.187,0.86-0.49 C57.04,45.207,57.047,44.83,56.878,44.521z M17.116,41C15.949,41,15,40.103,15,39v-1h6v3H17.116z M41,8.887L49.195,22H32.805 L41,8.887z M35.224,24h11.551l4.512,8H30.712L35.224,24z M33,46h3v6h-3V46z M44,52h-6v-6h6V52z M27.686,44l5.461-10h15.706 l5.461,10H27.686z" />
+</svg>

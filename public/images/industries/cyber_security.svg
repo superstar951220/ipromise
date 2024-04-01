@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" width="512" height="512">
+  <defs>
+    <linearGradient id="TYKlGVNV3Cp6IyFAuDUvOa" x1="19" x2="19" y1="2959.106" y2="2961.883" gradientTransform="translate(0 -2946)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6dc7ff" />
+      <stop offset="1" stop-color="#e6abff" />
+    </linearGradient>
+    <linearGradient id="TYKlGVNV3Cp6IyFAuDUvOb" x1="45" x2="45" y1="2959.106" y2="2961.883" xlink:href="#TYKlGVNV3Cp6IyFAuDUvOa" />
+    <linearGradient id="TYKlGVNV3Cp6IyFAuDUvOc" x1="32" x2="32" y1=".348" y2="58.272" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a6dff" />
+      <stop offset="1" stop-color="#c822ff" />
+    </linearGradient>
+    <linearGradient id="TYKlGVNV3Cp6IyFAuDUvOd" x1="32" x2="32" y1="410.957" y2="403.17" gradientTransform="matrix(1 0 0 -1 0 436)" xlink:href="#TYKlGVNV3Cp6IyFAuDUvOa" />
+    <linearGradient id="TYKlGVNV3Cp6IyFAuDUvOe" x1="3" x2="3" y1="402.234" y2="396.298" gradientTransform="matrix(1 0 0 -1 0 436)" xlink:href="#TYKlGVNV3Cp6IyFAuDUvOa" />
+    <linearGradient id="TYKlGVNV3Cp6IyFAuDUvOf" x1="5" x2="5" y1="392.085" y2="385.982" gradientTransform="matrix(1 0 0 -1 0 436)" xlink:href="#TYKlGVNV3Cp6IyFAuDUvOa" />
+    <linearGradient id="TYKlGVNV3Cp6IyFAuDUvOg" x1="9" x2="9" y1="384.043" y2="378.043" gradientTransform="matrix(1 0 0 -1 0 436)" xlink:href="#TYKlGVNV3Cp6IyFAuDUvOa" />
+    <linearGradient id="TYKlGVNV3Cp6IyFAuDUvOh" x1="50" x2="50" y1="402.234" y2="396.298" gradientTransform="rotate(180 55.5 218)" xlink:href="#TYKlGVNV3Cp6IyFAuDUvOa" />
+    <linearGradient id="TYKlGVNV3Cp6IyFAuDUvOi" x1="52" x2="52" y1="392.085" y2="385.982" gradientTransform="rotate(180 55.5 218)" xlink:href="#TYKlGVNV3Cp6IyFAuDUvOa" />
+    <linearGradient id="TYKlGVNV3Cp6IyFAuDUvOj" x1="56" x2="56" y1="384.043" y2="378.043" gradientTransform="rotate(180 55.5 218)" xlink:href="#TYKlGVNV3Cp6IyFAuDUvOa" />
+  </defs>
+  <polygon fill="url(#TYKlGVNV3Cp6IyFAuDUvOa)" points="19 16 15 18 15 12 23 12 19 16" />
+  <polygon fill="url(#TYKlGVNV3Cp6IyFAuDUvOb)" points="45 16 49 18 49 12 41 12 45 16" />
+  <path fill="url(#TYKlGVNV3Cp6IyFAuDUvOc)" d="M54.5,41A2.50282,2.50282,0,0,0,57,38.5a.50081.50081,0,0,1,.5-.5H62V36H57.5A2.50282,2.50282,0,0,0,55,38.5a.50081.50081,0,0,1-.5.5H53.32513A22.623,22.623,0,0,0,54,33.508V19.887a3.02623,3.02623,0,0,0-2.707-2.985c-.098-.011-.195-.032-.293-.045V14a3.13626,3.13626,0,0,0-3.25-3H40.67a16.458,16.458,0,0,1-2.846-4.988A3.0078,3.0078,0,0,0,34.996,4H29.004a3.0078,3.0078,0,0,0-2.828,2.012A16.43772,16.43772,0,0,1,23.33,11H16.25A3.13626,3.13626,0,0,0,13,14v2.857c-.098.013-.195.034-.293.045A3.02623,3.02623,0,0,0,10,19.887V33.508A22.623,22.623,0,0,0,10.67487,39H9.5a.50081.50081,0,0,1-.5-.5A2.50282,2.50282,0,0,0,6.5,36H2v2H6.5a.50081.50081,0,0,1,.5.5A2.50282,2.50282,0,0,0,9.5,41h1.77618A22.76141,22.76141,0,0,0,13.758,46H5v2H15.2442a22.6669,22.6669,0,0,0,3.004,3H16.5A2.50282,2.50282,0,0,0,14,53.5a.50081.50081,0,0,1-.5.5H9v2h4.5A2.50282,2.50282,0,0,0,16,53.5a.50081.50081,0,0,1,.5-.5H21v-.05426A21.31569,21.31569,0,0,0,31.453,55.992c.184.004.363.008.543.008H32.004c.18,0,.359-.004.543-.008A21.31569,21.31569,0,0,0,43,52.94574V53h4.5a.50081.50081,0,0,1,.5.5A2.50282,2.50282,0,0,0,50.5,56H55V54H50.5a.50081.50081,0,0,1-.5-.5A2.50282,2.50282,0,0,0,47.5,51H45.75177a22.6669,22.6669,0,0,0,3.004-3H59V46H50.242a22.76141,22.76141,0,0,0,2.48182-5ZM47.75,13A1.1479,1.1479,0,0,1,49,14v2.453A16.46329,16.46329,0,0,1,42.637,13ZM15,14a1.1479,1.1479,0,0,1,1.25-1h5.113A16.46329,16.46329,0,0,1,15,16.453ZM37,53.324V51H35v2.748a19.09664,19.09664,0,0,1-2,.206V49H31v4.954a19.09664,19.09664,0,0,1-2-.206V51H27v2.324A20.54414,20.54414,0,0,1,12,33.508V19.887a1.01477,1.01477,0,0,1,.934-.996A18.69724,18.69724,0,0,0,28.059,6.676,1.01107,1.01107,0,0,1,29.004,6H34.996a1.011,1.011,0,0,1,.945.676A18.69892,18.69892,0,0,0,51.066,18.891a1.01477,1.01477,0,0,1,.934.996V33.508A20.54414,20.54414,0,0,1,37,53.324Z" />
+  <circle cx="32" cy="29" r="4" fill="url(#TYKlGVNV3Cp6IyFAuDUvOd)" />
+  <path fill="url(#TYKlGVNV3Cp6IyFAuDUvOc)" d="M32,20a8.99861,8.99861,0,0,0-4,17.06V40a4,4,0,0,0,8,0V37.06A8.99861,8.99861,0,0,0,32,20Zm2.625,15.486L34,35.739V40a2,2,0,0,1-4,0V35.739l-.625-.253a7,7,0,1,1,5.25,0Z" />
+  <circle cx="3" cy="37" r="3" fill="url(#TYKlGVNV3Cp6IyFAuDUvOe)" />
+  <circle cx="5" cy="47" r="3" fill="url(#TYKlGVNV3Cp6IyFAuDUvOf)" />
+  <circle cx="9" cy="55" r="3" fill="url(#TYKlGVNV3Cp6IyFAuDUvOg)" />
+  <circle cx="61" cy="37" r="3" fill="url(#TYKlGVNV3Cp6IyFAuDUvOh)" />
+  <circle cx="59" cy="47" r="3" fill="url(#TYKlGVNV3Cp6IyFAuDUvOi)" />
+  <circle cx="55" cy="55" r="3" fill="url(#TYKlGVNV3Cp6IyFAuDUvOj)" />
+</svg>
